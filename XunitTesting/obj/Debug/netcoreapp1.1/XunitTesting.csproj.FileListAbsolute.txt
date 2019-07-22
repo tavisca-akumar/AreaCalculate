@@ -1,0 +1,15 @@
+C:\Users\akumar\source\repos\ConsoleApp1\XunitTesting\bin\Debug\netcoreapp1.1\XunitTesting.deps.json
+C:\Users\akumar\source\repos\ConsoleApp1\XunitTesting\bin\Debug\netcoreapp1.1\XunitTesting.dll
+C:\Users\akumar\source\repos\ConsoleApp1\XunitTesting\bin\Debug\netcoreapp1.1\ConsoleApp1.dll
+C:\Users\akumar\source\repos\ConsoleApp1\XunitTesting\bin\Debug\netcoreapp1.1\ConsoleApp1.pdb
+C:\Users\akumar\source\repos\ConsoleApp1\XunitTesting\obj\Debug\netcoreapp1.1\XunitTesting.csprojResolveAssemblyReference.cache
+C:\Users\akumar\source\repos\ConsoleApp1\XunitTesting\obj\Debug\netcoreapp1.1\XunitTesting.csproj.CoreCompileInputs.cache
+C:\Users\akumar\source\repos\ConsoleApp1\XunitTesting\obj\Debug\netcoreapp1.1\XunitTesting.AssemblyInfo.cs
+C:\Users\akumar\source\repos\ConsoleApp1\XunitTesting\bin\Debug\netcoreapp1.1\XunitTesting.runtimeconfig.json
+C:\Users\akumar\source\repos\ConsoleApp1\XunitTesting\bin\Debug\netcoreapp1.1\XunitTesting.runtimeconfig.dev.json
+C:\Users\akumar\source\repos\ConsoleApp1\XunitTesting\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\akumar\source\repos\ConsoleApp1\XunitTesting\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\akumar\source\repos\ConsoleApp1\XunitTesting\bin\Debug\netcoreapp1.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\akumar\source\repos\ConsoleApp1\XunitTesting\bin\Debug\netcoreapp1.1\XunitTesting.pdb
+C:\Users\akumar\source\repos\ConsoleApp1\XunitTesting\obj\Debug\netcoreapp1.1\XunitTesting.dll
+C:\Users\akumar\source\repos\ConsoleApp1\XunitTesting\obj\Debug\netcoreapp1.1\XunitTesting.pdb
